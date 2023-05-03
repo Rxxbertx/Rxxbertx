@@ -1,9 +1,11 @@
 $\definecolor{brightgreen}{rgb}{0.4, 1.0, 0.0}$
 
-## $$\textcolor{brightgreen}{\texttt{Welcome to my Github, glad to see you here}}$$
 
+
+##    $$\textcolor{brightgreen}{\texttt{Welcome to my Github, glad to see you here}}$$
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  /> <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Rxxbertx.Rxxbertx&"  />
 </div>
 
@@ -15,8 +17,7 @@ $\definecolor{brightgreen}{rgb}{0.4, 1.0, 0.0}$
 
 <div align="center">
 
-  ![texto alternativo](https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif) 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rxxbertx&count_private=true&show_icons=true&theme=chartreuse-dark&title_color=66FF00)](https://github.com/anuraghazra/github-readme-stats) ![texto alternativo](https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rxxbertx&count_private=true&show_icons=true&theme=chartreuse-dark&title_color=66FF00)](https://github.com/anuraghazra/github-readme-stats) 
   <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rxxbertx&theme=chartreuse-dark&title_color=66FF00&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
@@ -52,7 +53,7 @@ $\textcolor{brightgreen}{\texttt{Systems knowledge}}$
 
 ###
   
- <img src="https://streak-stats.demolab.com?user=Rxxbertx&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=43&order=3" height="220" alt="streak graph"  />
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Rxxbertx&theme=chartreuse-dark&hide_border=true&border_radius=11.6&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=EB5100)](https://git.io/streak-stats)
     
 </div>
 
