@@ -17,9 +17,9 @@ $\definecolor{brightgreen}{rgb}{0.4, 1.0, 0.0}$
 
 <div align="center">
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rxxbertx&count_private=true&show_icons=true&theme=chartreuse-dark&title_color=66FF00)](https://github.com/anuraghazra/github-readme-stats) 
+  [![RXXBERTX's GitHub stats](https://github-readme-stats-r.vercel.app/api?username=Rxxbertx&count_private=true&show_icons=true&theme=chartreuse-dark&title_color=66FF00)](https://github.com/anuraghazra/github-readme-stats) 
   <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rxxbertx&theme=chartreuse-dark&title_color=66FF00&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+  [![Top Langs](https://github-readme-stats-r.vercel.app/api/top-langs/?username=Rxxbertx&theme=chartreuse-dark&title_color=66FF00&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 $\textcolor{brightgreen}{\texttt{Systems knowledge}}$
 
