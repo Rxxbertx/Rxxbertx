@@ -1,4 +1,6 @@
-## $$\textcolor{GREEN}{\texttt{Welcome to my Github, glad to see you here}}$$
+$\definecolor{brightgreen}{rgb}{0.4, 1.0, 0.0}$
+
+## $$\textcolor{brightgreen}{\texttt{Welcome to my Github, glad to see you here}}$$
 
 
 <div align="center">
@@ -8,36 +10,17 @@
 ###
 
 <p align="center">  $\textcolor{black}{\texttt{I'm Roberto(19) from \textcolor{red}{Sp}\textcolor{yellow}a\textcolor{red}{in}  }}$ <br>
-  🔭   $\textcolor{GREEN}{\texttt{Student}}$   </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  🔭   $\textcolor{brightgreen}{\texttt{Student}}$   </p>
 
 
 <div align="center">
 
-  |  ![texto alternativo](https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif)  	|   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rxxbertx&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rxxbertx&theme=synthwave&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)	|  ![texto alternativo](https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif) 	|
-|---	|:-:	|--:	|
+  ![texto alternativo](https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rxxbertx&count_private=true&show_icons=true&theme=chartreuse-dark&title_color=66FF00)](https://github.com/anuraghazra/github-readme-stats) ![texto alternativo](https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif)
+  <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rxxbertx&theme=chartreuse-dark&title_color=66FF00&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-<h3>Systems knowledge</h3>
+$\textcolor{brightgreen}{\texttt{Systems knowledge}}$
 
 ###
 
@@ -50,7 +33,7 @@
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+🛠️ $\textcolor{brightgreen}{\texttt{Languages and Tools}}$
 
 ###
 
@@ -69,14 +52,8 @@
 
 ###
   
-  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rxxbertx&theme=synthwave&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-  <img src="https://streak-stats.demolab.com?user=Rxxbertx&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=43&order=3" height="220" alt="streak graph"  />
-  
-
-  
+ <img src="https://streak-stats.demolab.com?user=Rxxbertx&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=43&order=3" height="220" alt="streak graph"  />
+    
 </div>
 
 <div align="center">
@@ -87,13 +64,15 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/getlost01/getlost01/output/github-contribution-grid-snake.svg">
   </picture> 
 
-  $$\textcolor{GREEN}{\texttt{Commit \textcolor{purple}{Eater}}}$$
+  $$\textcolor{brightgreen}{\texttt{Commit \textcolor{purple}{Eater}}}$$
 
   
 </div>
 
 ###
 
+<div align=center>
+  
 
 
 
