@@ -17,7 +17,7 @@ $\definecolor{brightgreen}{rgb}{0.4, 1.0, 0.0}$
 
 <div align="center">
 
-  [![RXXBERTX's GitHub stats](https://github-readme-stats-r.vercel.app/api?username=Rxxbertx&count_private=true&show_icons=true&theme=chartreuse-dark&title_color=66FF00)](https://github.com/anuraghazra/github-readme-stats) 
+  [![RXXBERTX's GitHub stats](https://github-readme-stats-r.vercel.app/api?username=Rxxbertx&show_icons=true&theme=chartreuse-dark&title_color=66FF00)](https://github.com/anuraghazra/github-readme-stats) 
   <br>
   [![Top Langs](https://github-readme-stats-r.vercel.app/api/top-langs/?username=Rxxbertx&theme=chartreuse-dark&title_color=66FF00&layout=compact)](https://github-readme-stats-r.vercel.app) 
 
