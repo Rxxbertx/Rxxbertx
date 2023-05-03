@@ -19,7 +19,7 @@ $\definecolor{brightgreen}{rgb}{0.4, 1.0, 0.0}$
 
   [![RXXBERTX's GitHub stats](https://github-readme-stats-r.vercel.app/api?username=Rxxbertx&count_private=true&show_icons=true&theme=chartreuse-dark&title_color=66FF00)](https://github.com/anuraghazra/github-readme-stats) 
   <br>
-  [![Top Langs](https://github-readme-stats-r.vercel.app/api/top-langs/?username=Rxxbertx&theme=chartreuse-dark&title_color=66FF00&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+  [![Top Langs](https://github-readme-stats-r.vercel.app/api/top-langs/?username=Rxxbertx&theme=chartreuse-dark&title_color=66FF00&layout=compact)](https://github-readme-stats-r.vercel.app) 
 
 $\textcolor{brightgreen}{\texttt{Systems knowledge}}$
 
@@ -77,5 +77,5 @@ $\textcolor{brightgreen}{\texttt{Systems knowledge}}$
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Rxxbertx)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rxxbertx&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
 
