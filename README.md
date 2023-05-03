@@ -6,7 +6,7 @@ $\definecolor{brightgreen}{rgb}{0.4, 1.0, 0.0}$
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  /> <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rxxbertx.Rxxbertx&"  />
+  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Rxxbertx/Rxxbertx?label=Visitors">
 </div>
 
 ###
@@ -17,9 +17,9 @@ $\definecolor{brightgreen}{rgb}{0.4, 1.0, 0.0}$
 
 <div align="center">
 
-  [![RXXBERTX's GitHub stats](https://github-readme-stats-r.vercel.app/api?username=Rxxbertx&show_icons=true&theme=chartreuse-dark&title_color=66FF00)](https://github-readme-stats-r.vercel.app) 
+  [![RXXBERTX's GitHub stats](https://github-readme-stats-r.vercel.app/api?username=Rxxbertx&show_icons=true&theme=chartreuse-dark&title_color=66FF00&count_private=true)](https://github-readme-stats-r.vercel.app) 
   <br>
-  [![Top Langs](https://github-readme-stats-r.vercel.app/api/top-langs/?username=Rxxbertx&theme=chartreuse-dark&title_color=66FF00&layout=compact&size_weight=0.5&count_weight=0.5)](https://github-readme-stats-r.vercel.app) 
+  [![Top Langs](https://github-readme-stats-r.vercel.app/api/top-langs/?username=Rxxbertx&theme=chartreuse-dark&title_color=66FF00&layout=compact&size_weight=0.5&count_weight=0.5&count_private=true)](https://github-readme-stats-r.vercel.app) 
 
 $\textcolor{brightgreen}{\texttt{Systems knowledge}}$
 
@@ -54,6 +54,9 @@ $\textcolor{brightgreen}{\texttt{Systems knowledge}}$
 ###
   
  [![GitHub Streak](https://streak-stats.demolab.com?user=Rxxbertx&theme=chartreuse-dark&hide_border=true&border_radius=11.6&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=EB5100)](https://git.io/streak-stats)
+  
+  
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rxxbertx&range=all_time&theme=chartreuse-dark&custom_title=Coding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     
 </div>
 
@@ -69,13 +72,8 @@ $\textcolor{brightgreen}{\texttt{Systems knowledge}}$
 
   
 </div>
-
-###
-
-<div align=center>
   
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rxxbertx&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
 
