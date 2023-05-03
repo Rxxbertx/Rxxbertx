@@ -1,31 +1,17 @@
-<table>
-  <tr>
-  <td>
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rxxbertx&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+## $$\textcolor{GREEN}{\texttt{Welcome to my Github, glad to see you here}}$$
 
-  <td>
+<div align="center">
   
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rxxbertx&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)  |
+|:-:|
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rxxbertx&theme=synthwave&count_private=true)](https://github.com/anuraghazra/github-readme-stats) |
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rxxbertx&theme=synthwave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-  
-</table>
+![texto alternativo](https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif)
+
+
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rxxbertx)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**Rxxbertx/Rxxbertx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
