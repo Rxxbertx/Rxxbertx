@@ -17,9 +17,9 @@ $\definecolor{hotmagenta}{rgb}{1.0, 0.11, 0.81}$
 
 <div align="center">
 
-  [![RXXBERTX's GitHub stats](https://github-readme-stats-r.vercel.app/api?username=Rxxbertx&show_icons=true&theme=synthwave&count_private=true&hide_border=true)](https://github-readme-stats-r.vercel.app) 
+  [![RXXBERTX's GitHub stats](https://github-readme-stats-r.vercel.app/api?username=Rxxbertx&show_icons=true&theme=synthwave&count_private=true&hide_border=true)]()
   <br>
-  [![Top Langs](https://github-readme-stats-r.vercel.app/api/top-langs/?username=Rxxbertx&theme=synthwave&layout=compact&size_weight=0.5&count_weight=0.5&count_private=true&hide_border=true)](https://github-readme-stats-r.vercel.app) 
+  [![Top Langs](https://github-readme-stats-r.vercel.app/api/top-langs/?username=Rxxbertx&theme=synthwave&layout=compact&size_weight=0.5&count_weight=0.5&count_private=true&hide_border=true)]()
 
 
   
@@ -81,7 +81,7 @@ $\definecolor{hotmagenta}{rgb}{1.0, 0.11, 0.81}$
  [![GitHub Streak](https://streak-stats.demolab.com?user=Rxxbertx&theme=synthwave&hide_border=true&border_radius=11.6&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=EB5100)](https://git.io/streak-stats)
   
   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rxxbertx&range=all_time&theme=synthwave&custom_title=Coding&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rxxbertx&range=all_time&theme=synthwave&custom_title=Coding&layout=compact&hide_border=true)](https://wakatime.com/@Rxxbertx)
     
 </div>
 
