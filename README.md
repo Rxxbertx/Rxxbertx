@@ -6,7 +6,7 @@ $\definecolor{hotmagenta}{rgb}{1.0, 0.11, 0.81}$
 
 <div align="center">
   <img src=https://www.svgrepo.com/download/439171/github.svg height="40" width="52" alt="github logo"  /> <br>
-  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Rxxbertx/Rxxbertx?label=Visitors">
+  <img alt="GitHub watchers" src="https://visitor-badge.laobi.icu/badge?page_id=rxxbertx.rxxbertx&%22">
 </div>
 
 ###
