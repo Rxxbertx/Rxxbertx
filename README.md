@@ -93,7 +93,7 @@ $\definecolor{hotmagenta}{rgb}{1.0, 0.11, 0.81}$
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/getlost01/getlost01/output/github-contribution-grid-snake.svg">
   </picture> 
 
-  $$\textcolor{brightgreen}{\texttt{Commit \textcolor{purple}{Eater}}}$$
+  $$\textcolor{hotmagenta}{\texttt{Commit \textcolor{purple}{Eater}}}$$
 
   
 </div>
