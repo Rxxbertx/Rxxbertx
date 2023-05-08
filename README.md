@@ -17,6 +17,7 @@ $\definecolor{hotmagenta}{rgb}{1.0, 0.11, 0.81}$
 
 <div align="center">
 
+
   [![RXXBERTX's GitHub stats](https://github-readme-stats-r.vercel.app/api?username=Rxxbertx&show_icons=true&theme=synthwave&count_private=true&hide_border=true)]()
   <br>
   [![Top Langs](https://github-readme-stats-r.vercel.app/api/top-langs/?username=Rxxbertx&theme=synthwave&layout=compact&size_weight=0.5&count_weight=0.5&count_private=true&hide_border=true&langs_count=10&custom_title=Most+used+languages++{in+Repos})]()
@@ -99,6 +100,5 @@ $\definecolor{hotmagenta}{rgb}{1.0, 0.11, 0.81}$
 </div>
   
 
-
-
+<img src="https://open.spotify.com/embed/track/4LwbGXpHNvKkwiyLFBsBBQ?utm_source=generator&theme=0" width="100%" height="352">
 
