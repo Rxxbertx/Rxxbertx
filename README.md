@@ -16,54 +16,6 @@
   [![Top Langs](https://github-readme-stats-r.vercel.app/api/top-langs/?username=Rxxbertx&theme=synthwave&layout=donut&size_weight=0.5&count_weight=0.5&count_private=true&hide_border=true&langs_count=10&custom_title=Most+used+languages++{in+Repos}&hide=javascript,blade)]()
 
 
-  
-<details>
-  <summary><h2>SKILLS</h2></summary>
-  <details>
-<summary>Systems knowledge</summary>
-    
-<picture>
-<source
-  srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"
-  media="(prefers-color-scheme: light)"/>
-<source
-  srcset="https://www.svgrepo.com/download/303484/apple1-logo.svg"
-  media="(prefers-color-scheme: dark)"/>    
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" width="52" alt="apple logo"/>
-</picture>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="ubuntu logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" width="52" alt="windows8 logo"/>
-  
-
-</details>
-  
-  
-  <details>
-<summary>Languages and Tools</summary>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" width="52" alt="swift logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="52" alt="laravel logo"  />
-  <picture>
-<source
-  srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
-  media="(prefers-color-scheme: light)"/>
-<source
-  srcset=https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-1.png
-  media="(prefers-color-scheme: dark)"/>    
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
-</picture>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
-</details>
-  
-
-  
-</details>
-
 
 <div align="center">
 
