@@ -24,7 +24,9 @@
 </div>
 
 <div align="center">
+
 [![wakatime](https://wakatime.com/badge/user/a716c372-04e5-447e-997f-db02b9dd50c9.svg)](https://wakatime.com/@a716c372-04e5-447e-997f-db02b9dd50c9)
+
 </div>
 
 <div align="center">
