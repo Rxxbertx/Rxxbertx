@@ -20,8 +20,11 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=rxxbertx&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_total_contributions=true&hide_current_streak=true)](https://git.io/streak-stats)  
   
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rxxbertx&range=all_time&theme=synthwave&custom_title=Coding&layout=compact&hide_border=true)](https://wakatime.com/@Rxxbertx)
+   
+</div>
+
+<div align="center">
 [![wakatime](https://wakatime.com/badge/user/a716c372-04e5-447e-997f-db02b9dd50c9.svg)](https://wakatime.com/@a716c372-04e5-447e-997f-db02b9dd50c9)
-    
 </div>
 
 <div align="center">
